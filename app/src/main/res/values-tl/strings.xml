@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Isinasagawa</string>
+    <string name="indeterminate">Bahagyang may check</string>
+    <string name="not_selected">Hindi napili</string>
+    <string name="selected">Napili</string>
+    <string name="state_empty">Walang laman</string>
+    <string name="state_off">Naka-off</string>
+    <string name="state_on">Naka-on</string>
+    <string name="switch_role">Lumipat</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d (na) porsyento.</string>
+</resources>

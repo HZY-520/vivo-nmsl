@@ -1,0 +1,15 @@
+package com.vivo.cnm.lico.ui.theme;
+
+import android.os.Build;
+
+/* compiled from: r8-map-id-55bc5e14ca4f0ce1fb1e9e77cc19bf795986c6a69e3d49814dc3ca7768ce79b2 */
+/* loaded from: /tmp/classes.dex */
+public final class TokensKt {
+    public static final boolean getAtLeast31() {
+        return Build.VERSION.SDK_INT >= 31;
+    }
+
+    public static final boolean getAtLeast35() {
+        return Build.VERSION.SDK_INT >= 35;
+    }
+}

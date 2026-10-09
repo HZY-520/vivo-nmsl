@@ -1,0 +1,20 @@
+package defpackage;
+
+/* compiled from: r8-map-id-55bc5e14ca4f0ce1fb1e9e77cc19bf795986c6a69e3d49814dc3ca7768ce79b2 */
+/* loaded from: /tmp/classes.dex */
+public interface xn extends f6 {
+    @Override // defpackage.f6
+    default et0 a(kr0 kr0Var) {
+        return new l20(this);
+    }
+
+    float b(long j, float f, float f2, float f3);
+
+    float c(long j, float f, float f2, float f3);
+
+    long d(float f, float f2, float f3);
+
+    default float e(float f, float f2, float f3) {
+        return c(d(f, f2, f3), f, f2, f3);
+    }
+}

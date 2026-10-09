@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Pooleli</string>
+    <string name="indeterminate">Osaliselt märgitud</string>
+    <string name="not_selected">Pole valitud</string>
+    <string name="selected">Valitud</string>
+    <string name="state_empty">Tühi</string>
+    <string name="state_off">Väljas</string>
+    <string name="state_on">Sees</string>
+    <string name="switch_role">Lüliti</string>
+    <string name="tab">Vaheleht</string>
+    <string name="template_percent">%1$d protsenti.</string>
+</resources>

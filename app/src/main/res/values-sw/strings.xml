@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Inaendelea</string>
+    <string name="indeterminate">Imekaguliwa kwa kiasi fulani</string>
+    <string name="not_selected">Hujachagua</string>
+    <string name="selected">Umechagua</string>
+    <string name="state_empty">Tupu</string>
+    <string name="state_off">Imezimwa</string>
+    <string name="state_on">Imewashwa</string>
+    <string name="switch_role">Swichi</string>
+    <string name="tab">Kichupo</string>
+    <string name="template_percent">Asilimia %1$d.</string>
+</resources>

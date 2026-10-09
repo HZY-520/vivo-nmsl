@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">काम हुँदै छ</string>
+    <string name="indeterminate">आंशिक रूपमा जाँच गरिएको</string>
+    <string name="not_selected">चयन गरिएको छैन</string>
+    <string name="selected">चयन गरिएको छ</string>
+    <string name="state_empty">खाली</string>
+    <string name="state_off">अफ छ</string>
+    <string name="state_on">अन छ</string>
+    <string name="switch_role">बदल्नुहोस्</string>
+    <string name="tab">ट्याब</string>
+    <string name="template_percent">%1$d प्रतिशत।</string>
+</resources>
